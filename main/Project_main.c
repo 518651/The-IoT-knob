@@ -107,28 +107,6 @@
 
 void app_main(void)
 {
-    // ESP_ERROR_CHECK( nvs_flash_init() );
-    // demo_initialise_wifi();
+     ESP_ERROR_CHECK( nvs_flash_init() );
     user_wifi_config_sta();
-
-    ESP_ERROR_CHECK( nvs_flash_init() );
-    _wifi_init_ap();
-
-#if 0
-    xTaskCreate((TaskFunction_t )app_tcp_server_single_conn_task,
-                (const char*    )"app_tcp_server_task",
-                (uint16_t       )TCP_SERVER_TASK_STK_SIZE,
-                (void*          )NULL,
-                (UBaseType_t    )TCP_SERVER_TASK_PRIO,
-                (TaskHandle_t*  )&app_tcp_server_single_conn_task_handler);
-
-#else
-    xTaskCreate((TaskFunction_t )app_tcp_server_multi_conn_task,
-                (const char*    )"app_tcp_server_multi_conn_task",
-                (uint16_t       )TCP_SERVER_TASK_STK_SIZE,
-                (void*          )NULL,
-                (UBaseType_t    )TCP_SERVER_TASK_PRIO,
-                (TaskHandle_t*  )&app_tcp_server_multi_conn_task_handler);                
-
-#endif
 }
