@@ -50,6 +50,6 @@ static void app_tcp_server_multi_conn_task(void *arg);
 
 void user_wifi_config_sta(void); //配置WIFI API 
 
-static esp_err_t event_handler(void *ctx, system_event_t *event);
+static esp_err_t event_handler(void *ctx, system_event_t *event);//配网事件
 
 static void _wifi_init_ap(void);
