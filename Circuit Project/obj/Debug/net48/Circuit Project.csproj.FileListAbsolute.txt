@@ -1,0 +1,19 @@
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\bin\Debug\net48\Circuit Project.exe.config
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\bin\Debug\net48\Circuit Project.exe
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\bin\Debug\net48\Circuit Project.pdb
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\bin\Debug\net48\FontAwesome.WPF.dll
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.csproj.AssemblyReference.cache
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.csproj.SuggestedBindingRedirects.cache
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\MainWindow.baml
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\App.baml
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\MainWindow.g.cs
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\App.g.cs
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project_MarkupCompile.cache
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.g.resources
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.AssemblyInfoInputs.cache
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.AssemblyInfo.cs
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.csproj.CoreCompileInputs.cache
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.csproj.CopyComplete
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.exe
+I:\Project\C#\Packagee\Circuit Project\Circuit Project\Circuit Project\obj\Debug\net48\Circuit Project.pdb

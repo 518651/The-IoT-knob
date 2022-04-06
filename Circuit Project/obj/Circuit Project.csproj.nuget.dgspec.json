@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\Project\\C#\\Packagee\\Circuit Project\\Circuit Project\\Circuit Project\\Circuit Project.csproj": {}
+  },
+  "projects": {
+    "I:\\Project\\C#\\Packagee\\Circuit Project\\Circuit Project\\Circuit Project\\Circuit Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\Project\\C#\\Packagee\\Circuit Project\\Circuit Project\\Circuit Project\\Circuit Project.csproj",
+        "projectName": "Circuit Project",
+        "projectPath": "I:\\Project\\C#\\Packagee\\Circuit Project\\Circuit Project\\Circuit Project\\Circuit Project.csproj",
+        "packagesPath": "C:\\Users\\ZHUXS\\.nuget\\packages\\",
+        "outputPath": "I:\\Project\\C#\\Packagee\\Circuit Project\\Circuit Project\\Circuit Project\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ZHUXS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\vcpkg\\scripts\\buildsystems\\": {},
+          "I:\\Project\\.nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "FontAwesome.WPF": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
