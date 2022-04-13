@@ -51,6 +51,14 @@
             "FontAwesome.WPF": {
               "target": "Package",
               "version": "[4.7.0.9, )"
+            },
+            "Newtonsoft.Json.Glimpse": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "SuperSimpleTcp": {
+              "target": "Package",
+              "version": "[2.6.0.7, )"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"

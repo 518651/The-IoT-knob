@@ -15,6 +15,8 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft\Xamarin\NuGet\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">C:\Users\ZHUXS\.nuget\packages\newtonsoft.json\6.0.3</PkgNewtonsoft_Json>
+    <PkgGlimpse Condition=" '$(PkgGlimpse)' == '' ">C:\Users\ZHUXS\.nuget\packages\glimpse\1.8.5</PkgGlimpse>
     <PkgFontAwesome_WPF Condition=" '$(PkgFontAwesome_WPF)' == '' ">C:\Users\ZHUXS\.nuget\packages\fontawesome.wpf\4.7.0.9</PkgFontAwesome_WPF>
   </PropertyGroup>
 </Project>
