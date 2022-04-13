@@ -16,3 +16,14 @@ TCP通讯请参考:
 https://github.com/jchristn/SuperSimpleTcp
 
 请注意,S3代码为项目缓存,含有大量错误代码,现在尽量不要移植！
+
+
+----------
+2022/4/13 19:30:53 
+
+----------
+对Circuit Project加装TCP通讯及API生成函数,可执行对低交互
+主线项目正在执行LVGL的移植,暂时有BUG,无法完成烧录后的监听.
+
+下一进度:Circuit Project完成自升级模块开发
+主线项目:对接LVGL的全面UI编写,业务代码及UI代码达到最低交互程度
