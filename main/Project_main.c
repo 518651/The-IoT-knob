@@ -107,6 +107,9 @@
 
 void app_main(void)
 {
-     ESP_ERROR_CHECK( nvs_flash_init() );
+    lv_init();
+    demo_create();
+    ESP_ERROR_CHECK( nvs_flash_init() );
     user_wifi_config_sta();
+    
 }

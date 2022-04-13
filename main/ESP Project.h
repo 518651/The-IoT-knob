@@ -18,6 +18,10 @@
 #include "lwip/sys.h"
 #include <lwip/netdb.h>
 
+
+#include "LVGL/components/components/lvgl/lvgl.h"
+#include "LVGL/components/components/lvgl/demos/lv_demos.h"
+
 #include "TCP/tcp_server.h"
 #include "WIFI/User_WIFI.h"
 
@@ -50,6 +54,8 @@ static void app_tcp_server_multi_conn_task(void *arg);
 
 void user_wifi_config_sta(void); //配置WIFI API 
 
-static esp_err_t event_handler(void *ctx, system_event_t *event);//配网事件
+static esp_err_t event_handler(void *ctx, system_event_t *event);
 
 static void _wifi_init_ap(void);
+
+void LVGL_Screen(void);

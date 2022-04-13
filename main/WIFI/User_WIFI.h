@@ -6,8 +6,8 @@ extern "C" {
 #endif
 
 
-#define WIFI_SSID           "USER_WIFI_NAME"
-#define WIFI_PASS           "USER_WIFI_PAS"
+#define WIFI_SSID           "HUAWEI-402"
+#define WIFI_PASS           "zhujia8888CYGGpays666"
 
 
 void user_wifi_config_sta(void);
