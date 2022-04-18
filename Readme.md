@@ -27,3 +27,10 @@ https://github.com/jchristn/SuperSimpleTcp
 
 下一进度:Circuit Project完成自升级模块开发
 主线项目:对接LVGL的全面UI编写,业务代码及UI代码达到最低交互程度
+
+----------
+2022/4/18 10:10:24 
+
+----------
+新增类:AutoUpdata自动更新函数
+
