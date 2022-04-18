@@ -8,7 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autoupdater.NET.Official" Version="1.7.0" />
     <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="Newtonsoft.Json.Glimpse" Version="1.0.2" />
+    <PackageReference Include="SuperSimpleTcp" Version="2.6.0.7" />
   </ItemGroup>
 
 </Project>
