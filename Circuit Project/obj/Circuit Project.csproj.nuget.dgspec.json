@@ -48,6 +48,10 @@
         "net48": {
           "targetAlias": "net48",
           "dependencies": {
+            "Autoupdater.NET.Official": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
             "FontAwesome.WPF": {
               "target": "Package",
               "version": "[4.7.0.9, )"
